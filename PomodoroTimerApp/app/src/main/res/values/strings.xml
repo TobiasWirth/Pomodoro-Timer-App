@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Pomodoro Timer App</string>
+    <string name="tab_text_1">Pomodoro</string>
+    <string name="tab_text_2">Short Break</string>
+    <string name="tab_text_3">Long Break</string>
+    <string name="pause_timer_text">Pause</string>
+    <string name="start_timer_text">Start</string>
+    <string name="change_timer_settings">Change Timer values</string>
+    <string name="auto_start_settings">CAuto start</string>
+    <string name="button_reset_text">Reset</string>
+    <string name="start_button_text">Start</string>
+    <string name="timer_text">00:00</string>
+
+</resources>
